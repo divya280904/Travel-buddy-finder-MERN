@@ -16,7 +16,7 @@ const Layout = () => {
         <>
             <header>
                 <div className='brand'>
-                    <h1 className='title'><Link to ="/">TravelBuddyFinder</Link></h1>
+                    <h1 className='title'><Link to ="/">TravelSaathi</Link></h1>
                 </div>
 
                 <nav className='pageNav'>
